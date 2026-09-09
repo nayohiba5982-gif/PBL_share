@@ -1,1 +1,32 @@
+pip freeze > requirements.txt
 
+上記のコマンドを打つことで出力可能。
+
+# Example
+
+absl-py==2.5.0
+annotated-types==0.8.0
+certifi==2026.7.22
+charset-normalizer==3.5.1
+click==8.5.0
+cloudpickle==3.1.2
+contourpy==1.3.3
+cuda-bindings==13.3.1
+cuda-pathfinder==1.8.1
+cuda-toolkit==13.0.3.0
+cycler==0.12.1
+filelock==3.32.5
+fonttools==4.64.0
+fsspec==2026.7.0
+grpcio==1.83.1
+idna==3.19
+Jinja2==3.1.6
+joblib==1.6.0
+kiwisolver==1.5.1
+Markdown==3.10.3
+MarkupSafe==3.0.3
+matplotlib==3.11.1
+mpmath==1.3.0
+narwhals==2.25.0
+networkx==3.6.1
+numpy==2.5.2
